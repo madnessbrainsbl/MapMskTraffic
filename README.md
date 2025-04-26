@@ -30,3 +30,7 @@ A Moscow traffic analysis and route planning application that provides risk asse
 1. Install dependencies
 2. Run `python app.py` to start the application
 3. Access the web interface at http://localhost:5000
+   
+## Screenshots
+   ![image](https://github.com/user-attachments/assets/3ed32c7d-3063-49a0-9758-6b0dca6e162e)
+
