@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="time" attr.type="string" />
+  <key id="d2" for="edge" attr.name="length" attr.type="string" />
+  <key id="d1" for="node" attr.name="x" attr.type="string" />
+  <key id="d0" for="node" attr.name="y" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="1">
+      <data key="d0">55.753215</data>
+      <data key="d1">37.622504</data>
+    </node>
+    <node id="2">
+      <data key="d0">55.751244</data>
+      <data key="d1">37.618423</data>
+    </node>
+    <node id="3">
+      <data key="d0">55.754638</data>
+      <data key="d1">37.621633</data>
+    </node>
+    <node id="4">
+      <data key="d0">55.760249</data>
+      <data key="d1">37.618734</data>
+    </node>
+    <node id="5">
+      <data key="d0">55.757539</data>
+      <data key="d1">37.615373</data>
+    </node>
+    <edge source="1" target="2" id="0">
+      <data key="d2">400</data>
+      <data key="d3">300</data>
+    </edge>
+    <edge source="1" target="3" id="0">
+      <data key="d2">200</data>
+      <data key="d3">150</data>
+    </edge>
+    <edge source="2" target="1" id="0">
+      <data key="d2">400</data>
+      <data key="d3">300</data>
+    </edge>
+    <edge source="2" target="3" id="0">
+      <data key="d2">350</data>
+      <data key="d3">250</data>
+    </edge>
+    <edge source="2" target="5" id="0">
+      <data key="d2">700</data>
+      <data key="d3">500</data>
+    </edge>
+    <edge source="3" target="1" id="0">
+      <data key="d2">200</data>
+      <data key="d3">150</data>
+    </edge>
+    <edge source="3" target="2" id="0">
+      <data key="d2">350</data>
+      <data key="d3">250</data>
+    </edge>
+    <edge source="3" target="4" id="0">
+      <data key="d2">600</data>
+      <data key="d3">450</data>
+    </edge>
+    <edge source="4" target="3" id="0">
+      <data key="d2">600</data>
+      <data key="d3">450</data>
+    </edge>
+    <edge source="4" target="5" id="0">
+      <data key="d2">400</data>
+      <data key="d3">300</data>
+    </edge>
+    <edge source="5" target="4" id="0">
+      <data key="d2">400</data>
+      <data key="d3">300</data>
+    </edge>
+    <edge source="5" target="2" id="0">
+      <data key="d2">700</data>
+      <data key="d3">500</data>
+    </edge>
+  </graph>
+</graphml>

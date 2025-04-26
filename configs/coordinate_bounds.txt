@@ -1,0 +1,2 @@
+longitude_bounds: (36.81793, 38.48236)
+latitude_bounds: (55.26054, 56.22648)
